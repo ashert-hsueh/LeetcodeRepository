@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashert-hsueh/LeetcodeRepository/tree/master/0150-evaluate-reverse-polish-notation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ashert-hsueh/LeetcodeRepository/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
