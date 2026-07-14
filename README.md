@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ashert-hsueh/LeetcodeRepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashert-hsueh/LeetcodeRepository/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ashert-hsueh/LeetcodeRepository/tree/main/0020-valid-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ashert-hsueh/LeetcodeRepository/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashert-hsueh/LeetcodeRepository/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Database
 | Problem Name | Difficulty |
